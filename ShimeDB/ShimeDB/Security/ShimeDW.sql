@@ -1,0 +1,2 @@
+﻿CREATE USER [ShimeDW] FOR LOGIN [ShimeDW];
+
